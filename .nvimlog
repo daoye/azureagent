@@ -1,0 +1,96 @@
+INFO  2020-06-06T10:04:41.131 28516 on_process_exit:393: exited: pid=28518 status=0 stoptime=0
+INFO  2020-06-06T10:04:41.162 28516 channel_create_event:201: new channel 3 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[13]..provider#Poll:3) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-06-06T10:04:41.629 28516 on_process_exit:393: exited: pid=28520 status=0 stoptime=0
+INFO  2020-06-06T10:04:41.667 28516 on_process_exit:393: exited: pid=28521 status=0 stoptime=0
+INFO  2020-06-06T10:04:41.707 28516 on_process_exit:393: exited: pid=28522 status=0 stoptime=0
+INFO  2020-06-06T10:04:41.745 28516 on_process_exit:393: exited: pid=28523 status=0 stoptime=0
+INFO  2020-06-06T10:04:41.784 28516 on_process_exit:393: exited: pid=28524 status=0 stoptime=0
+INFO  2020-06-06T10:04:41.830 28516 on_process_exit:393: exited: pid=28525 status=1 stoptime=0
+INFO  2020-06-06T10:04:41.872 28516 on_process_exit:393: exited: pid=28526 status=0 stoptime=0
+INFO  2020-06-06T10:04:41.981 28516 channel_create_event:201: new channel 4 (function remote#define#FunctionBootstrap[1]..remote#host#Require[10]..provider#pythonx#Require[13]..provider#Poll:3) : {"id": 4, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-06-06T10:04:42.126 28516 main:571: starting main loop
+INFO  2020-06-06T10:04:42.149 28516 channel_create_event:201: new channel 5 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>106_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:04:42.161 28516 channel_create_event:201: new channel 6 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>106_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:04:42.180 28516 on_process_exit:393: exited: pid=28528 status=0 stoptime=0
+INFO  2020-06-06T10:04:42.193 28516 on_process_exit:393: exited: pid=28529 status=0 stoptime=0
+INFO  2020-06-06T10:04:48.408 28516 emsg_multiline:681: E518: Unknown option: patse
+INFO  2020-06-06T10:04:53.361 28516 channel_create_event:201: new channel 7 (/tmp/nvimZMCVT9/0) : {"id": 7, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:04:53.368 28516 channel_create_event:201: new channel 8 (/tmp/nvimZMCVT9/0) : {"id": 8, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:04:53.376 28516 channel_create_event:201: new channel 9 (/tmp/nvimZMCVT9/0) : {"id": 9, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:04:53.385 28516 channel_create_event:201: new channel 10 (/tmp/nvimZMCVT9/0) : {"id": 10, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:05:10.570 28516 channel_create_event:201: new channel 11 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>106_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:05:10.582 28516 channel_create_event:201: new channel 12 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>106_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:05:10.602 28516 on_process_exit:393: exited: pid=28536 status=0 stoptime=0
+INFO  2020-06-06T10:05:10.612 28516 on_process_exit:393: exited: pid=28537 status=0 stoptime=0
+INFO  2020-06-06T10:05:15.243 28516 os_proc_tree_kill:96: sending SIGTERM to PID -28519
+INFO  2020-06-06T10:05:15.251 28516 os_proc_tree_kill:96: sending SIGTERM to PID -28527
+INFO  2020-06-06T10:05:15.263 28516 on_process_exit:393: exited: pid=28519 status=143 stoptime=244202531731500
+INFO  2020-06-06T10:05:15.270 28516 on_process_exit:393: exited: pid=28527 status=143 stoptime=244202539532500
+INFO  2020-06-06T10:05:15.278 28516 mch_exit:99: Nvim exit: 0
+INFO  2020-06-06T10:05:22.664 28547 on_process_exit:393: exited: pid=28549 status=0 stoptime=0
+INFO  2020-06-06T10:05:22.686 28547 channel_create_event:201: new channel 3 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[13]..provider#Poll:3) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-06-06T10:05:23.067 28547 on_process_exit:393: exited: pid=28551 status=0 stoptime=0
+INFO  2020-06-06T10:05:23.107 28547 on_process_exit:393: exited: pid=28552 status=0 stoptime=0
+INFO  2020-06-06T10:05:23.147 28547 on_process_exit:393: exited: pid=28553 status=0 stoptime=0
+INFO  2020-06-06T10:05:23.188 28547 on_process_exit:393: exited: pid=28554 status=0 stoptime=0
+INFO  2020-06-06T10:05:23.228 28547 on_process_exit:393: exited: pid=28555 status=0 stoptime=0
+INFO  2020-06-06T10:05:23.271 28547 on_process_exit:393: exited: pid=28556 status=1 stoptime=0
+INFO  2020-06-06T10:05:23.316 28547 on_process_exit:393: exited: pid=28557 status=0 stoptime=0
+INFO  2020-06-06T10:05:23.388 28547 channel_create_event:201: new channel 4 (function ale#events#LintOnEnter[5]..ale#Queue[33]..<SNR>119_Lint[26]..ale#engine#RunLinters[14]..<SNR>125_RunLinter[6]..<SNR>125_RunIfExecutable[36]..<SNR>125_RunJob[28]..ale#command#Run[56]..ale#job#Start:21) : {"id": 4, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:05:23.411 28547 on_process_exit:393: exited: pid=28558 status=0 stoptime=0
+INFO  2020-06-06T10:05:23.426 28547 channel_create_event:201: new channel 5 (function remote#define#FunctionBootstrap[1]..remote#host#Require[10]..provider#pythonx#Require[13]..provider#Poll:3) : {"id": 5, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-06-06T10:05:23.580 28547 main:571: starting main loop
+INFO  2020-06-06T10:05:23.608 28547 channel_create_event:201: new channel 6 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>108_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:05:23.621 28547 channel_create_event:201: new channel 7 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>108_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 7, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:05:23.646 28547 on_process_exit:393: exited: pid=28560 status=0 stoptime=0
+INFO  2020-06-06T10:05:23.653 28547 on_process_exit:393: exited: pid=28561 status=0 stoptime=0
+INFO  2020-06-06T10:06:21.660 28547 channel_create_event:201: new channel 8 (/tmp/nvimisQpQM/0) : {"id": 8, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:06:21.669 28547 channel_create_event:201: new channel 9 (/tmp/nvimisQpQM/0) : {"id": 9, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:06:21.676 28547 channel_create_event:201: new channel 10 (/tmp/nvimisQpQM/0) : {"id": 10, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:06:21.683 28547 channel_create_event:201: new channel 11 (/tmp/nvimisQpQM/0) : {"id": 11, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:06:23.055 28547 channel_create_event:201: new channel 12 (function ale#Queue[33]..<SNR>119_Lint[26]..ale#engine#RunLinters[14]..<SNR>125_RunLinter[6]..<SNR>125_RunIfExecutable[36]..<SNR>125_RunJob[28]..ale#command#Run[56]..ale#job#Start:21) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:06:23.082 28547 on_process_exit:393: exited: pid=28568 status=0 stoptime=0
+INFO  2020-06-06T10:06:26.674 28547 channel_create_event:201: new channel 13 (function <SNR>119_Lint[26]..ale#engine#RunLinters[14]..<SNR>125_RunLinter[6]..<SNR>125_RunIfExecutable[36]..<SNR>125_RunJob[28]..ale#command#Run[56]..ale#job#Start:21) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:06:26.709 28547 on_process_exit:393: exited: pid=28569 status=0 stoptime=0
+INFO  2020-06-06T10:06:36.707 28547 os_proc_tree_kill:96: sending SIGTERM to PID -28550
+INFO  2020-06-06T10:06:36.715 28547 os_proc_tree_kill:96: sending SIGTERM to PID -28559
+INFO  2020-06-06T10:06:36.726 28547 on_process_exit:393: exited: pid=28550 status=143 stoptime=244283994953300
+INFO  2020-06-06T10:06:36.733 28547 on_process_exit:393: exited: pid=28559 status=143 stoptime=244284003117000
+INFO  2020-06-06T10:06:36.741 28547 mch_exit:99: Nvim exit: 0
+INFO  2020-06-06T10:06:39.867 28579 on_process_exit:393: exited: pid=28581 status=0 stoptime=0
+INFO  2020-06-06T10:06:39.889 28579 channel_create_event:201: new channel 3 (function provider#python3#Call[9]..remote#host#Require[10]..provider#pythonx#Require[13]..provider#Poll:3) : {"id": 3, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-06-06T10:06:40.511 28579 channel_create_event:201: new channel 4 (function remote#define#FunctionBootstrap[1]..remote#host#Require[10]..provider#pythonx#Require[13]..provider#Poll:3) : {"id": 4, "client": {}, "mode": "rpc", "stream": "job"}
+INFO  2020-06-06T10:06:40.655 28579 main:571: starting main loop
+INFO  2020-06-06T10:06:40.681 28579 channel_create_event:201: new channel 5 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 5, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:06:40.694 28579 channel_create_event:201: new channel 6 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 6, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:06:40.712 28579 on_process_exit:393: exited: pid=28584 status=0 stoptime=0
+INFO  2020-06-06T10:06:40.726 28579 on_process_exit:393: exited: pid=28585 status=0 stoptime=0
+INFO  2020-06-06T10:06:59.308 28579 channel_create_event:201: new channel 7 (/tmp/nvimulUTz8/0) : {"id": 7, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:06:59.316 28579 channel_create_event:201: new channel 8 (/tmp/nvimulUTz8/0) : {"id": 8, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:06:59.324 28579 channel_create_event:201: new channel 9 (/tmp/nvimulUTz8/0) : {"id": 9, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:06:59.332 28579 channel_create_event:201: new channel 10 (/tmp/nvimulUTz8/0) : {"id": 10, "client": {}, "mode": "rpc", "stream": "socket"}
+INFO  2020-06-06T10:11:17.223 28579 channel_create_event:201: new channel 11 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 11, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:11:17.237 28579 channel_create_event:201: new channel 12 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 12, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:11:17.254 28579 on_process_exit:393: exited: pid=28592 status=0 stoptime=0
+INFO  2020-06-06T10:11:17.267 28579 on_process_exit:393: exited: pid=28593 status=0 stoptime=0
+INFO  2020-06-06T10:12:03.346 28579 channel_create_event:201: new channel 13 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 13, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:12:03.360 28579 channel_create_event:201: new channel 14 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 14, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:12:03.376 28579 on_process_exit:393: exited: pid=28594 status=0 stoptime=0
+INFO  2020-06-06T10:12:03.390 28579 on_process_exit:393: exited: pid=28595 status=0 stoptime=0
+INFO  2020-06-06T10:12:34.102 28579 channel_create_event:201: new channel 15 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 15, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:12:34.116 28579 channel_create_event:201: new channel 16 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 16, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:12:34.133 28579 on_process_exit:393: exited: pid=28596 status=0 stoptime=0
+INFO  2020-06-06T10:12:34.147 28579 on_process_exit:393: exited: pid=28597 status=0 stoptime=0
+INFO  2020-06-06T10:12:57.299 28579 channel_create_event:201: new channel 17 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 17, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:12:57.313 28579 channel_create_event:201: new channel 18 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 18, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:12:57.331 28579 on_process_exit:393: exited: pid=28598 status=0 stoptime=0
+INFO  2020-06-06T10:12:57.343 28579 on_process_exit:393: exited: pid=28599 status=0 stoptime=0
+INFO  2020-06-06T10:13:20.459 28579 channel_create_event:201: new channel 19 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[38]..airline#async#vcs_untracked[6]..airline#async#nvim_vcs_untracked:19) : {"id": 19, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:13:20.474 28579 channel_create_event:201: new channel 20 (function airline#extensions#branch#get_head[1]..airline#extensions#branch#head[6]..<SNR>112_update_untracked[42]..airline#async#vcs_clean[6]..airline#async#nvim_vcs_clean:24) : {"id": 20, "mode": "bytes", "stream": "job"}
+INFO  2020-06-06T10:13:20.492 28579 on_process_exit:393: exited: pid=28600 status=0 stoptime=0
+INFO  2020-06-06T10:13:20.505 28579 on_process_exit:393: exited: pid=28601 status=0 stoptime=0
+INFO  2020-06-06T10:13:21.802 28579 os_proc_tree_kill:96: sending SIGTERM to PID -28582
+INFO  2020-06-06T10:13:21.813 28579 os_proc_tree_kill:96: sending SIGTERM to PID -28583
+INFO  2020-06-06T10:13:21.823 28579 on_process_exit:393: exited: pid=28582 status=143 stoptime=244689090330400
+INFO  2020-06-06T10:13:21.833 28579 on_process_exit:393: exited: pid=28583 status=143 stoptime=244689101612000
+INFO  2020-06-06T10:13:21.841 28579 mch_exit:99: Nvim exit: 0
